@@ -1,0 +1,2 @@
+class BehaviourException(Exception):
+    pass

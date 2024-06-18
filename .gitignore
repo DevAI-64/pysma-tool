@@ -1,0 +1,12 @@
+__pycache__/
+behaviours/__pycache__/
+ant.py
+behaviours.py
+Dockerfile
+environment.py
+main_sma.py
+.tox/
+.coverage
+dist/
+.pytest_cache/
+pysma_tool/container.py
